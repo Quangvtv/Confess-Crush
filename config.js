@@ -16,4 +16,3 @@ const CONFIG = {
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://m.me/hnq0308' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
-
