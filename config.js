@@ -1,8 +1,7 @@
 const CONFIG = {
     titleWeb: "Hi chào con người dễ thương kia!!!",
     introTitle: 'Gửi bé Viên 😘',
-    introDesc: `Mồng 8/3 bé đã có ai ở cạnh chưa...hmmm! Chắc chắn là chưa rồi 😢 Chúng ta đang yêu xa mà 🥺
-    Chết tiệt chết tiệt 😵‍💫 Buồn thật chớ 🥺`,
+    introDesc: `Mồng 8/3 bé đã có ai ở cạnh chưa...hmmm! Chắc chắn là chưa rồi 😢 Chúng ta đang yêu xa mà 🥺 Chết tiệt chết tiệt 😵‍💫 Buồn thật chớ 🥺`,
     btnIntro: 'Xem tiếp thì bấm vào đây nè 😝',
     title: 'Mồng 8/3 là ngày gì ý nhở?',
     desc: 'Chúc bé iu mồng 8/3 vui vẻ hạnh phúc nhé! Luôn vui vẻ, xinh gái nè, khoẻ mạnh hơn. Bớt ốm vặt đi nhá 😡 Ốm quen mặt rồi mà. Rời xa tui cấy là biết liền mà 😡 Cố gắng học giỏi nhé! Huhu. Ko có anh có buồn không?',
