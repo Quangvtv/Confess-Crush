@@ -12,8 +12,7 @@ const CONFIG = {
     btnReply: 'Gửi ☺️',
     reply: 'Vì anh đẹp zai, dễ thương...ngại quá☺️',
     mess: 'Anh biết ngay mà 🥰. Yêu bé quá trời 😘',
-    messDesc: 'Cố gắng làm chuyến vũng tàu thôi
-    Thèm bé quá 🥺',
+    messDesc: 'Cố gắng làm chuyến vũng tàu thôi...Thèm bé quá 🥺',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://m.me/hnq0308' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
