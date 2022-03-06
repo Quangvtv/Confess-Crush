@@ -1,20 +1,24 @@
 const CONFIG = {
     titleWeb: "Hi chào con người dễ thương kia!!!",
-    introTitle: 'Viên cuteee 😍😍😍',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
+    introTitle: 'Gửi bé Viên 😘',
+    introDesc: `Mồng 8/3 bé đã có ai ở cạnh chưa...hmmm! 
+    Chắc chắn là chưa rồi 😢 Chúng ta đang yêu xa mà 🥺
+    Chết tiệt chết tiệt 😵‍💫 Buồn thật chớ 🥺`,
+    btnIntro: 'Xem tiếp thì bấm vào đây nè 😝',
+    title: 'Mồng 8/3 là ngày gì ý nhở?',
+    desc: 'Chúc bé iu mồng 8/3 vui vẻ hạnh phúc nhé!
+    Luôn vui vẻ, xinh gái nè, khoẻ mạnh hơn. Bớt ốm vặt đi nhá 😡
+    Ốm quen mặt rồi mà. Rời xa tui cấy là biết liền mà 😡
+    Cố gắng học giỏi nhé! Huhu. Ko có anh có buồn không?',
+    btnYes: 'Cực buồn 🥺',
     btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
+    question: 'Lý do gì mà bé lại yêu anh 😝',
+    btnReply: 'Gửi ☺️',
+    reply: 'Vì anh đẹp zai, dễ thương...ngại quá☺️',
+    mess: 'Anh biết ngay mà 🥰. Yêu bé quá trời 😘',
+    messDesc: 'Cố gắng làm chuyến vũng tàu thôi
+    Thèm bé quá 🥺',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://m.me/hnq0308' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
+
